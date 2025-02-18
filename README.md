@@ -9,7 +9,7 @@ I am passionate about technology and its evolution, and I truly enjoy developing
 
 - Programming Languages I Use 👨‍💻:
   - Python
-  -JavaScript
+  - JavaScript
 
 - I am highly collaborative when working on projects with my team.
 - I really enjoy working in a team.
