@@ -7,7 +7,7 @@ Software Development Student with knowledge in languages such as Python and Java
 I am collaborative, creative, and always eager to learn and take on new challenges every day.
 I am passionate about technology and its evolution, and I truly enjoy developing software that helps people in their daily lives.
 
-  - Programming Languages I Use 👨‍💻:
+- Programming Languages I Use 👨‍💻:
   - Python
   -JavaScript
 
