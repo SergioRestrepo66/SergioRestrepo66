@@ -12,7 +12,7 @@ I am passionate about technology and its evolution, and I truly enjoy developing
   -JavaScript
 
 - I am highly collaborative when working on projects with my team.
-- I am passionate about joining forces with my team to contribute ideas for a better project.
+- I really enjoy working in a team.
 - I am a person who loves music 🎸, sports 🏀, video games 🎮, and nature 🏞️.
 
 📫 You can contact me via email <a href="restreposergio780@gmail.com">restreposergio780@gmail.com</a>
